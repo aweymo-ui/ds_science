@@ -4,11 +4,12 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.png" alt="Title card with a photo of the author and an image of a data visualization" caption="CALS Liaison Introduction" title="CALS Liaison Introduction" %}
+{% include gallery-figure.html img="banner.png" alt="Title card with a link to the workshop and artifacts of Japanese rice bowls with cobalt illustrations" %}
 
-[Slide Deck](https://indd.adobe.com/view/174aaa8c-4c0b-455d-9194-82d530121498){:target="_blank" rel="noopener"}
+[Slide Deck](https://indd.adobe.com/view/aebef62d-21a9-4c92-a42f-c100a11bd351){:target="_blank" rel="noopener"}
 
-Transcript and links of introductory presentation for students of the College of Agricultural & Life Sciences at University of Idaho by Library liaison Andrew Weymouth.
+Introduction to digital scholarship approaches for students seeking to highlight, preserve and make new connections in their scientific and multi-disciplinary research.
+Presentation by College of Agricultural & Life Sciences liaison Andrew Weymouth.
 
 {% include toc.html %}
 
