@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: College of Agricultural & Life Sciences Liaison Introduction
+title: Using Digital Scholarship Methods to Enrich Scientific Research
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -18,7 +18,7 @@ title: College of Agricultural & Life Sciences Liaison Introduction
 title-icon: 
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "Guide to Library Resources"
+description: "A Selection of Approaches"
 keywords: 
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
@@ -31,9 +31,9 @@ author: Andrew Weymouth
 # your github username for link [optional]
 github_username: aweymo-ui
 # year or date published
-pub_year: 2024
+pub_year: 2026
 # location of code, the full url to your github repository
-source-code: https://github.com/aweymo-ui/cals_intro
+source-code: https://github.com/aweymo-ui/ds_science
 
 ##########
 # URL VARIABLES [optional!!]
@@ -47,7 +47,7 @@ url: https://aweymo-ui.github.io/
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /cals_intro
+baseurl: /ds_science
 
 
 ##########
