@@ -18,4 +18,6 @@ The [Plant, Soil, and Entomological Sciences Records collection](https://www.lib
 
 {% include gallery-figure.html img="ds_science_02.jpg" alt="Bowl against a black background with blue cobalt illustrations of bats and a swan." caption="Item from the Historical Japanese Ceramic Comparative Collection, link below." width="100%" %}
 
+The [Historical Japanese Ceramic Comparative Collection](https://www.lib.uidaho.edu/digital/hjccc/) is an example of digital scholarship in historical archaeology by Ph.D. Candidate Renae Campbell as part of her 2018 CDIL Digital Scholarship Fellowship. This collection features multiple "child" items per page, allowing researchers to engage with the artifacts remotely but thoroughly. There is also quite a bit of customized metadata, allowing visitors in the archaeological field to make chemical connections around the type of materials, decoration method and the pigments that were applied to the objects. This work is also complimented by with a glossary with kanji translations and a helpful visualized directory, where readers can explore the collection by vessel type.
+
 <br>
