@@ -1,12 +1,12 @@
 ---
-title: Digital Scholarship Examples
-nav: Digital Scholarship Examples
+title: Digital Scholarship Examples and Conclusion
+nav: Digital Scholarship Examples and Conclusion
 gallery: true
 ---
 
 <br>
 
-**Here are a few examples of scientific work** that we have collaborated on in the CDIL to help you think about ways you can reconsider and reframe your own work. 
+**To help you rethink your own work**, here are a few examples of scientific projects we've developed with researchers at the CDIL.
 
 {% include gallery-figure.html img="ds_science_07.jpg" alt="Index card with a photograph of a moth with ornately patterned wings." caption="Alfalfa looper moth from the Plant, Soil, and Entomological Sciences Records collection, link below." width="100%" %}
 
@@ -28,6 +28,38 @@ There is also quite a bit of customized metadata, allowing visitors in the archa
 
 [Storying Extinction: Responding to the Loss of North Idaho’s Mountain Caribou](https://cdil.lib.uidaho.edu/storying-extinction/about.html)  is a multidisciplinary digital humanities project which documents the human and animal history of North Idaho through oral history of residents who have had encounters with caribou and game camera footage. The project implements _deep maps_, multi-dimensional, interactive visualizations that offer an alternative to traditional representations of space. The site also allows readers many different _ways in_ to the material, exploring the material geographically, through transcribed oral histories, through multi-modal essays, as a database of items, or, my favorite, literally through the trails in the area, allowing readers to drop into the wilderness at various points.
 
+{% include gallery-figure.html img="ds_science_10.gif" alt="Screen capture of a reader panning around the interior of a fire lookout in Northern Idaho." caption="Example of 360 photography utilized in the Keeping Watch digital exhibit" width="100%" %}
 
+[Keeping Watch](https://cdil.lib.uidaho.edu/keeping-watch/) is a project that embeds oral history testimonies by former and current fire lookouts on a mapping interface interface. The project sought to preserve fire watch towers as a disappearing part of Idaho's natural history and explore these sites through the people who have lived and worked there over time. Each item level tower page utilizes 360 photography to allow site visitors to explore the space and surrounding wilderness in incredible detail, which is also supplemented with oral history recordings from the people who maintain the towers. 
+
+This digital exhibit has gradually evolved into a symposium, the first being held here in the IRIC building over the summer, and now a journal, where it will continue to cross academic disciplines to analyze these structures and how we interact with and observe nature. 
+
+{% include gallery-figure.html img="ds_science_11.jpg" alt="A distant shot of a small wooden cabin between two wooded mountainsides." caption="The future site of the Taylor Wilderness Research Station, owned by Dave Lewis, ca. 1937, courtesy U of I Special Collections (IntermtnPics55)" title="The future site of the Taylor Wilderness Research Station, owned by Dave Lewis, ca. 1937, courtesy U of I Special Collections (IntermtnPics55)" %}
+
+Finally, the [Taylor Wilderness Research Station Archive](https://www.lib.uidaho.edu/digital/taylor-archive/) is a good example of the application of multiple digital scholarship methods to present scientific research. The project utilizes over 40 years of archival documents generated from the Wilderness Center, which U of I has conducted research from since the 1970s. This is complimented by a series of oral history interviews fellowship recipient Jack Kredell conducted with superintendents and researchers over the last five years. 
+
+{% include gallery-figure.html img="ds_science_13.png" alt="Data visualization of multi-colored nodes against a black background labeled with the names of authors." caption="Visualization of citation impact over time of authors that contributed to work found in the Taylor Wilderness Research Station digital archive."  title="Visualization of citation impact over time of authors that contributed to work found in the Taylor Wilderness Research Station digital archive." width="100%" %}
+
+In addition to helping to wrangle all of this metadata together, I also worked on two digital scholarship projects to help add context to the volume of research this collection contains. Using all of the scholarly data from the various books and articles that make up the collection, I used a network visualization tool called [VOSViewer](https://www.vosviewer.com/) to understand:
+
+- How works that were created from research at the wilderness station were cited in future works by other researchers at outside institutions over time
+- How these works were co-authored by researchers in other institutions, indicating the value of the station by its reach outside of U of I
+- And how research developed at Taylor changed over time, tracking rising and falling interest within the sciences by keywords like "wildfires", "climate change" and "classification"
+
+{% include gallery-figure.html img="ds_science_12.gif" alt="Google Earth Studio interface with an overhead view on the left, camera view on the right and timeline on the bottom." caption="Google Earth Studio interface with an overhead view on the left, camera view on the right and timeline on the bottom" title="Google Earth Studio interface with an overhead view on the left, camera view on the right and timeline on the bottom" width="100%" %}
+
+After working on this collection for such a long time, I realized I didn't have a very good sense of the actual space. Part of this had to do with each researcher looking at very specific areas of the natural world around them, and part of it had to do with the actual remoteness of the area, where the 2 million acres of protected wilderness can only be hiked or flown into. To help add geographic context for visitors to the site, I worked with Jack Kredell to pinpoint all of the areas mentioned in a selection of the oral history recordings. I then worked in Google Earth Studio, which is essentially Google Earth with animation functionalities, to create the following geographic visualization, which became part of a series of excerpts:
+
+{% include feature/video.html objectid="https://youtu.be/eKYyentx7Nc" %}
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
+In essence, digital scholarship is a practice that extends beyond simply using digital tools and becomes a mindset for re-imagining research. By strategically selecting and representing data, scholars can create accessible online projects that reveal new insights for a wider public. This process, which can be preserved and shared through version-controlled platforms like GitHub, not only establishes authorship and fosters collaboration but also provides a crucial mechanism for specialists to step back from their research focus and understand their output in a wider frame. Ultimately, embracing these digital approaches empowers researchers to challenge their own preconceived notions, develop deeper understandings, and discover new dimensions within the very material they know best.
 
 <br>
