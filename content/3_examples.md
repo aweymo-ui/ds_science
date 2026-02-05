@@ -60,6 +60,8 @@ After working on this collection for such a long time, I realized I didn't have 
 
 <br>
 
-In essence, digital scholarship is a practice that extends beyond simply using digital tools and becomes a mindset for re-imagining research. By strategically selecting and representing data, scholars can create accessible online projects that reveal new insights for a wider public. This process, which can be preserved and shared through version-controlled platforms like GitHub, not only establishes authorship and fosters collaboration but also provides a crucial mechanism for specialists to step back from their research focus and understand their output in a wider frame. Ultimately, embracing these digital approaches empowers researchers to challenge their own preconceived notions, develop deeper understandings, and discover new dimensions within the very material they know best.
+**In essence**, digital scholarship is a practice that extends beyond simply using digital tools and becomes a mindset for re-imagining research. By strategically selecting and representing data, scholars can create accessible online projects that reveal new insights for a wider audience. This process, which can be preserved and shared through version-controlled platforms like GitHub, not only establishes authorship and fosters collaboration but also provide a crucial mechanism for specialists to step back from their research focus and understand their output in a larger context. 
+
+> Ultimately, embracing these digital approaches empowers researchers to challenge their own preconceived notions, develop deeper understandings, and discover new dimensions within the very material they know best.
 
 <br>

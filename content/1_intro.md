@@ -11,6 +11,12 @@ My name is Andrew Weymouth and I am an [assistant professor with the University 
 
 <br>
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
 **The goals for presentation are to:**
 
 - Discuss the ways that digital scholarship can help enrich your scientific research
@@ -23,11 +29,13 @@ My name is Andrew Weymouth and I am an [assistant professor with the University 
 
 I am also the CALS liaison for the Library, which means that I regularly talk with and present to science students on how they can find and explore library resources, including events, physical spaces, online catalogs, as well as special collections. [Visit my workshop](https://aweymo-ui.github.io/cals_intro/) for an overview of these resources, as well as some search strategies to make the process a little less daunting.
 
-I also focus on using static web technology to curate the institution’s special collections and partner with faculty and students to create custom fellowship projects. Two examples of science oriented fellowship projects have included the, [Gary Strong Fellowship](https://www.lib.uidaho.edu/special-collections/strong-fellowship.html) recipients producing the [Plant, Soil, and Entomological Sciences Records](https://www.lib.uidaho.edu/digital/pses/){:target="_blank" rel="noopener"} and the [WWAMI Scrapbook](https://www.lib.uidaho.edu/digital/wwami/){:target="_blank" rel="noopener"} digital collections.  
+I also focus on using static web technology to curate the institution’s special collections and partner with faculty and students to create custom fellowship projects. Two examples of science-oriented fellowship projects have included the, [Gary Strong Fellowship](https://www.lib.uidaho.edu/special-collections/strong-fellowship.html) recipients producing the [Plant, Soil, and Entomological Sciences Records](https://www.lib.uidaho.edu/digital/pses/){:target="_blank" rel="noopener"} and the [WWAMI Scrapbook](https://www.lib.uidaho.edu/digital/wwami/){:target="_blank" rel="noopener"} digital collections.  
 
 {% include gallery-figure.html img="ds_science_03.png" alt="Index card with a photo of two Yellow-striped armyworms" caption="Yellow-striped armyworms from the student-led Plant, Soil, and Entomological Sciences Records as a part of the Gary Strong Fellowship" width="100%" %}
 
 Which leads me to my corner of the library, the CDIL or center for digital inquiry and learning, located on the second floor of the library building. Every year, we work with undergraduate, graduate and faculty recipients of the [CDIL Fellowships](https://cdil.lib.uidaho.edu/fellowships/){:target="_blank" rel="noopener"}, and I would highly encourage you to apply this year if you are interested in building a site to help enrich your research and develop your technical skills! 
+
+<br>
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -60,5 +68,11 @@ In the CDIL, we host [all of our collections](https://www.lib.uidaho.edu/digital
 CSV files, or spreadsheets, inform the individual items that make up a collection. These spreadsheets contain all of the relevant _metadata_, or data about those items, which can inform maps, word clouds and timelines, so researchers can understand your work from a variety of angles. Once this database of images, documents, video and audio is established, contextual material like About pages or essays within the collection can add more nuance to your findings. To make scholarly connections between the items in your research, sections like location, author names and subjects need to follow a _standardized language_, which allows potential researchers to drill down on these likenesses between items in visualizations or grouping through keyword searches. 
 
 > CollectionBuilder, and all of the software needed to work with it, is completely free to use. Visit our [CollectionBuilder documentation](https://collectionbuilder.github.io/cb-docs/) for a comprehensive guide and step-by-step walkthroughs for everything you need to create, maintain and update a site for your research. 
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

@@ -33,3 +33,9 @@ This workshop also details all of the steps you need to take to use [Timeline.js
 > If you do have an audio or video element of your research, creating longform media versions or creating a site to host snippets of this material alongside accompanying text might help readers understand your work in more visceral or engaging ways.
 
 <br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
