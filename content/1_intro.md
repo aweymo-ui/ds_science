@@ -33,7 +33,7 @@ I also focus on using static web technology to curate the institution’s specia
 
 {% include gallery-figure.html img="ds_science_03.png" alt="Index card with a photo of two Yellow-striped armyworms" caption="Yellow-striped armyworms from the student-led Plant, Soil, and Entomological Sciences Records as a part of the Gary Strong Fellowship" width="100%" %}
 
-Which leads me to my corner of the library, the CDIL or center for digital inquiry and learning, located on the second floor of the library building. Every year, we work with undergraduate, graduate and faculty recipients of the [CDIL Fellowships](https://cdil.lib.uidaho.edu/fellowships/){:target="_blank" rel="noopener"}, and I would highly encourage you to apply this year if you are interested in building a site to help enrich your research and develop your technical skills! 
+Which leads me to my corner of the library, the CDIL or Center for Digital Inquiry and Learning, located on the second floor of the library building. Every year, we work with undergraduate, graduate and faculty recipients of the [CDIL Fellowships](https://cdil.lib.uidaho.edu/fellowships/){:target="_blank" rel="noopener"}, and I would highly encourage you to apply this year if you are interested in building a site to help enrich your research and develop your technical skills! 
 
 <br>
 
@@ -47,7 +47,7 @@ Which leads me to my corner of the library, the CDIL or center for digital inqui
 
 <br>
 
-To begin, _digital scholarship_ (somewhat interchangeable with “digital humanities”) refers to academic work that leverages digital tools, methods, and platforms to conduct research, present findings, and engage with both scholarly and public audiences. It encompasses the use of digital technologies to enhance traditional research practices and introduces new ways of creating, sharing, and analyzing knowledge.
+To begin, _digital scholarship_ (interchangeable with “digital humanities”) refers to academic work that leverages digital tools, methods, and platforms to conduct research, present findings, and engage with both scholarly and public audiences. It encompasses the use of digital technologies to enhance traditional research practices and introduces new ways of creating, sharing, and analyzing knowledge.
 
 As we will explore today, digital scholarship consists of selecting only certain parts of the data you have assembled and representing that data in different ways in order to draw out new insights and connections, help people understand new dimensions of your findings and also create accessible material online, so the greatest number of people can explore and learn more about your work. 
 
