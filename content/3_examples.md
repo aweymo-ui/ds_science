@@ -1,6 +1,6 @@
 ---
-title: Digital Scholarship Examples and Conclusion
-nav: Digital Scholarship Examples and Conclusion
+title: Digital Scholarship Examples
+nav: Digital Scholarship Examples
 gallery: true
 ---
 
