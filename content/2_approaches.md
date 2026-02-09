@@ -10,7 +10,7 @@ gallery: true
 
 <br>
 
-Before we get to more complicated examples of digital scholarship approaches to science, a good introduction to the basic concepts are explored in [Presenting Research in Five Ways to Increase Understanding and Uncover Connections](https://aweymo-ui.github.io/five_ways/). Although this originally created for an audience studying history, the concept of reconfiguring your research chronologically (in a timeline), geographically (in a map), audibly (in longform audio), relationally (using a database) or narratively (in a digital essay), also applies to scientific content. 
+Before we get to more complicated examples of digital scholarship approaches to science, a good introduction to the basic concepts are explored in [Presenting Research in Five Ways to Increase Understanding and Uncover Connections](https://aweymo-ui.github.io/five_ways/). Although this was originally created for an audience studying history, the concept of reconfiguring your research chronologically (in a timeline), geographically (in a map), audibly (in longform audio), relationally (using a database) or narratively (in a digital essay), can also enrich scientific content. 
 
 <br>
 
@@ -28,7 +28,7 @@ This workshop also details all of the steps you need to take to use [Timeline.js
 
 - The [second audio piece](https://danielmenche.bandcamp.com/album/from-here-to-electricity){:target="_blank" rel="noopener"}  comes from the prolific field-recording artist Daniel Menche, who approaches sound through embodied listening, capturing environments at specific angles, distances, and moments to reveal new insights about place. In this recording, made on an especially hot summer day in Oregon, Menche visited a remote mountainside with a cluster of electrical towers and little other noise pollution to document the “cracklings and hums” of power lines, an acoustic phenomenon known as *corona discharge*, caused by electricity reacting with humidity in the air during extreme heat. The recording makes us consider the relationship between industrialization and nature and also how these reactions are happening around us all of the time in imperceptible ways.
 
-- The [last recording](https://danielbachman.bandcamp.com/track/wildfire-smoke-over-old-rag){:target="_blank" rel="noopener"} I would like to share is from the Daniel Bachman, who is a musician that has become more interested in incorporating field recording, instrumentation and experimental sound design to explore the concept of “climate breakdown”, extreme weather events and it’s toll on people and nature. 
+- The [last recording](https://danielbachman.bandcamp.com/track/wildfire-smoke-over-old-rag){:target="_blank" rel="noopener"} I would like to share is from Daniel Bachman, who is a musician that has become more interested in incorporating field recording, instrumentation and experimental sound design to explore the concept of “climate breakdown”, extreme weather events and it’s toll on people and nature. 
 
 > If you do have an audio or video element of your research, creating longform media versions or creating a site to host snippets of this material alongside accompanying text might help readers understand your work in more visceral or engaging ways.
 
